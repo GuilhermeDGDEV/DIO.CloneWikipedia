@@ -40,7 +40,11 @@ a {
 figure {
     text-align: center;
 }
+figure.logo {
+    text-align: start;
+}
 header {
     background-color: #fff;
     border-bottom: solid 1px #cdcdcd;
+    border-top: solid 1px #cdcdcd;
 }
